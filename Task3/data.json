@@ -1,0 +1,142 @@
+[
+    {
+        "id": "p1",
+        "name": "Product 1",
+        "price": 12,
+        "value": 150,
+        "hasDiscount": false
+    },
+    {
+        "id": "p2",
+        "name": "Product 2",
+        "price": 45,
+        "value": 90,
+        "hasDiscount": true
+    },
+    {
+        "id": "p3",
+        "name": "Product 3",
+        "price": 33,
+        "value": 180,
+        "hasDiscount": false
+    },
+    {
+        "id": "p4",
+        "name": "Product 4",
+        "price": 29,
+        "value": 110,
+        "hasDiscount": false
+    },
+    {
+        "id": "p5",
+        "name": "Product 5",
+        "price": 51,
+        "value": 210,
+        "hasDiscount": true
+    },
+    {
+        "id": "p6",
+        "name": "Product 6",
+        "price": 22,
+        "value": 95,
+        "hasDiscount": false
+    },
+    {
+        "id": "p7",
+        "name": "Product 7",
+        "price": 69,
+        "value": 240,
+        "hasDiscount": false
+    },
+    {
+        "id": "p8",
+        "name": "Product 8",
+        "price": 18,
+        "value": 75,
+        "hasDiscount": false
+    },
+    {
+        "id": "p9",
+        "name": "Product 9",
+        "price": 39,
+        "value": 160,
+        "hasDiscount": true
+    },
+    {
+        "id": "p10",
+        "name": "Product 10",
+        "price": 58,
+        "value": 195,
+        "hasDiscount": false
+    },
+    {
+        "id": "p11",
+        "name": "Product 11",
+        "price": 25,
+        "value": 130,
+        "hasDiscount": false
+    },
+    {
+        "id": "p12",
+        "name": "Product 12",
+        "price": 42,
+        "value": 170,
+        "hasDiscount": true
+    },
+    {
+        "id": "p13",
+        "name": "Product 13",
+        "price": 34,
+        "value": 145,
+        "hasDiscount": false
+    },
+    {
+        "id": "p14",
+        "name": "Product 14",
+        "price": 67,
+        "value": 215,
+        "hasDiscount": false
+    },
+    {
+        "id": "p15",
+        "name": "Product 15",
+        "price": 49,
+        "value": 205,
+        "hasDiscount": true
+    },
+    {
+        "id": "p16",
+        "name": "Product 16",
+        "price": 31,
+        "value": 100,
+        "hasDiscount": false
+    },
+    {
+        "id": "p17",
+        "name": "Product 17",
+        "price": 53,
+        "value": 230,
+        "hasDiscount": false
+    },
+    {
+        "id": "p18",
+        "name": "Product 18",
+        "price": 36,
+        "value": 165,
+        "hasDiscount": true
+    },
+    {
+        "id": "p19",
+        "name": "Product 19",
+        "price": 21,
+        "value": 85,
+        "hasDiscount": false
+    },
+    {
+        "id": "p20",
+        "name": "Product 20",
+        "price": 62,
+        "value": 200,
+        "hasDiscount": false
+    }
+]
